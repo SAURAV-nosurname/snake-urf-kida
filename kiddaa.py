@@ -121,3 +121,5 @@ def game_loop():
 
 
 game_loop()
+
+#kidaa bhut ghtiya hai
